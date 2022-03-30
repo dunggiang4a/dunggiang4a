@@ -90,7 +90,7 @@
     <img class="ab ctr-h-vip-img " src="https://thidau.luyenthi123.com/assets/frontend/pc/img/ctr-vip-icon.png" alt="">
   </a>
   <span class="ctr-hm-info text-left">
-    <span class="ctr-hmi-username">dunggiang2012</span><br/>
+    <span class="ctr-hmi-username">WAnQPK</span><br/>
     <span class="ctr-hmi-achieve">
       <span class="ctr-hmia-name ant-ruby" style="color: #ff6fce"><span class="ctr-r-name">Kiến Ruby</span></span>
       <span class="ctr-hmia-star">
@@ -100,15 +100,15 @@
               </span>
     </span>
   </span>
-  <div class="ab size-zero" id="ctr-h-tooltip">
+  <div class="ab size-zero" id="000111222333">
     <ul class="list-group">
       <li class="list-group-item ctr-h-point">
         <p>Tổng điểm danh hiệu của bạn</p>
-        <div class="ctr-h-point-number">10238</div>
+        <div class="ctr-h-point-number">35000</div>
       </li>
       <li class="list-group-item ctr-h-next-achive ">
         <div style="margin-bottom: 5px;">Danh hiệu tiếp theo</div>
-        <div data-toggle="modal" href='#ctr-modal-appellation' class="ctr-h-next-avata" style="background-image: url('https://thidau.luyenthi123.com/assets/frontend/pc/img/head-ant-ruby1.png')"></div>
+        <div data-toggle="modal" href='#ctr-modal-appellation' class="ctr-h-next-avata" style="background-image: url('https://thidau.luyenthi123.com/assets/frontend/pc/img/head-ant-diamon.png1')"></div>
         <div class="text-center ctr-hmia-name">
           <div class="inline-block ant-ruby"><span class="ctr-r-name" style="color: #ff6fce">Kiến Ruby</span></div>
         </div>
@@ -117,11 +117,11 @@
         <p>Tiến trình lên cấp</p>
         <div class="progress">
           <div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="68.253333333333" aria-valuemin="0" aria-valuemax="100" style="width: 68.253333333333%;"></div>
-          <div class="progress-status"><span id="ctr-htp-score-number">25000000000</span><span id="ctr-htp-score-total">/15000000000000000</span></div>
+          <div class="progress-status"><span id="ctr-htp-score-number">35000</span><span id="ctr-htp-score-total">/55000</span></div>
         </div>
       </li>
       <li class="list-group-item ctr-hmia-profile">
-        <a class="text-center ctr-hmia-profile-link" href="https://www.luyenthi123.com/member/217113#hocba">Về trang học bạ của tôi</a>
+        <a class="text-center ctr-hmia-profile-link" href="https://www.luyenthi123.com/member/297416#hocba">Về trang học bạ của tôi</a>
       </li>
       <li class="list-group-item ctr-hmia-logout" style="background-color: #d9534f;">
         <a class="text-center ctr-hmia-logout-link" onClick="(function(){default_socket.emit('logout')})()" href="https://www.luyenthi123.com/act/thidau/logout" style="color: #fff;">Thoát tài khoản</a>
@@ -138,7 +138,7 @@
 	<div class="ctr-w-box">
 		<p class="ctr-w-room-name">
 			<span class="ctr-wrn-number">PHÒNG ĐẤU (1 VS 9)</span>
-			<span class="pull-right hide" id="ctr-wrn-win-member">Người thắng trận trước: Tuansu009 (565 điểm)</span>
+			<span class="pull-right hide" id="ctr-wrn-win-member">Người thắng trận trước: Hack game đó anh em</span>
 		</p>
 		<div class="ctr-w-main">
 			<div class="ctr-w-left">
